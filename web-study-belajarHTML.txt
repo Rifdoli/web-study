@@ -6,3 +6,6 @@ Belajar HTML
   * Color
   * Height dan Width
 - Pembelajaran Backend PHP
+ * Dasar PHP
+ * Framework Codeginiter
+ * Framework Laravel 
