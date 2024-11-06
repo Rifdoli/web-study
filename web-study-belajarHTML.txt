@@ -3,9 +3,8 @@ Belajar HTML
   * H1, H2
   * Paragraf
 - Pembelajaran Membuat Style
-  * Color
-  * Height dan Width
+  * Color, Wight dan Height
 - Pembelajaran Backend PHP
  * Dasar PHP
  * Framework Codeginiter
- * Framework Laravel 
+ * Framework Laravel
