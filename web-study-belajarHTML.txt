@@ -3,6 +3,7 @@ Belajar HTML
   * H1, H2
   * Paragraf
 - Pembelajaran Membuat Style
-  * Color
-  * Height dan Width
+  * Color, Wight dan Height
 - Pembelajaran Backend PHP
+  * Pembelajaran Laravel
+  * Pembelajaran Data Sructure
