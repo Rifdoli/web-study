@@ -5,5 +5,6 @@ Belajar HTML
 - Pembelajaran Membuat Style
   * Color, Wight dan Height
 - Pembelajaran Backend PHP
-  * Pembelajaran Laravel
-  * Pembelajaran Data Sructure
+ * Dasar PHP
+ * Framework Codeginiter
+ * Framework Laravel
