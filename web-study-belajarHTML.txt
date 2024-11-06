@@ -1,3 +1,7 @@
 Belajar HTML
-- Pembelajaran Membuat Class
-- Pembelajaran Membuat DIV
+- Pembelajaran Membuat Element
+  * H1, H2
+  * Paragraf
+- Pembelajaran Membuat Style
+  * Color
+  * Height dan Width
